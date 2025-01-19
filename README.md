@@ -1,2 +1,2 @@
 # Android_Calc
- Calculator Front End
+ Calculator App
