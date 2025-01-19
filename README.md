@@ -1,2 +1,2 @@
 # Android Calculator
- Calculator App in Java
+ Calculator App in Java.
