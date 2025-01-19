@@ -1,2 +1,2 @@
-# Android_Calc
+# Android Calculator
  Calculator App
